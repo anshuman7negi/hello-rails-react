@@ -5,8 +5,6 @@
 </div>
 
 
-> # Rails Recipe
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
