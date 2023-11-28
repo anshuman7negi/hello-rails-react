@@ -74,7 +74,7 @@ In order to run this project you need:
 
 Use the following URL to clone this project:
 
-    git@github.com:badger-99/hello-rails-react.git
+    https://github.com/anshuman7negi/hello-rails-react.git
 
 
 ### Install
@@ -119,7 +119,7 @@ There are no tests to run.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/badger-99/hello-rails-react/issues).
+Feel free to check the [issues page](https://github.com/anshuman7negi/hello-rails-react/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
